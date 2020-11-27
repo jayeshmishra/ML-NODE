@@ -1,0 +1,15 @@
+{
+  "name": "brainjs_examples",
+  "version": "1.0.0",
+  "description": "> These are some very basic examples from the YouTube \"Simple Machine Learning Using JS\" tutorial on YouTube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^1.6.1"
+  }
+}
